@@ -132,11 +132,11 @@ ul li {
 }
 
 /* table stuff here */
-table.acivities {
+table.activities {
     width: 100%;
     border-collapse: collapse;
 }
-table.activity th {
+table.activities th {
     background-color: #3179AF;
     color: white;
     padding: .6rem 2%;
